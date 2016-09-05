@@ -1,0 +1,1 @@
+# example-R-Query-Insert-From-Hive
